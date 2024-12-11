@@ -1,4 +1,4 @@
-**PROMPT** 
+## PROMPT
 
 Throughout the Chief's office, the historically significant locations are listed not by name but by a unique number called the location ID. To make sure they don't miss anything, The Historians split into two groups, each searching the office and trying to create their own complete list of location IDs.
 
@@ -28,7 +28,7 @@ To find the total distance between the left list and the right list, add up the 
 
 Your actual left and right lists contain many location IDs. What is the total distance between your lists?
 ---------------------------------------------------------------
-**POA**
+## POA
 1. Make each column a list
 2. Order lists smallest to largest
 3. Take absolute difference of each pair
